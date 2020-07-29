@@ -1,0 +1,11 @@
+amirmarmul.laravel-blade-vscode
+austenc.laravel-blade-spacer
+bmewburn.vscode-intelephense-client
+calebporzio.simple-php-cs-fixer
+dbaeumer.vscode-eslint
+ms-vscode.sublime-keybindings
+nikitaKunevich.snippet-creator
+octref.vetur
+PKief.material-icon-theme
+reblws.one-dark-flatland-monokai
+vincentkos.php-docblock-generator
