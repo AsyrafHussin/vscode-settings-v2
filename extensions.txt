@@ -9,3 +9,4 @@ octref.vetur
 PKief.material-icon-theme
 reblws.one-dark-flatland-monokai
 shufo.vscode-blade-formatter
+vincentkos.php-docblock-generator
