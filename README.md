@@ -89,7 +89,7 @@ I personally use this settings for my VS Code
 Using bash (Linux, OSX and WSL)
 
 ```bash
-cat extensions.txt | xargs code --list-extensions {}
+cat extensions.list | xargs -L1 code --install-extension
 ```
 
 Windows with PowerShell
