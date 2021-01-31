@@ -6,6 +6,8 @@ dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
+JakeBecker.elixir-ls
+ms-azuretools.vscode-docker
 ms-vscode.sublime-keybindings
 nikitaKunevich.snippet-creator
 octref.vetur
