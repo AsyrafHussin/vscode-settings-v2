@@ -98,7 +98,14 @@ I personally use this settings for my VS Code
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+},
+"files.associations": {
+    "*.wox": "html"
+},
+"[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"workbench.startupEditor": "newUntitledFile"
 }
 ```
 
