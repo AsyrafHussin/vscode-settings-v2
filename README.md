@@ -98,14 +98,15 @@ I personally use this settings for my VS Code
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"files.associations": {
+  },
+  "files.associations": {
     "*.wox": "html"
-},
-"[css]": {
+  },
+  "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"workbench.startupEditor": "newUntitledFile"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "vetur.ignoreProjectWarning": true
 }
 ```
 
