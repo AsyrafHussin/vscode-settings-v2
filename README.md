@@ -115,7 +115,7 @@ I personally use this settings for my VS Code
 Using bash (Linux, OSX and WSL)
 
 ```bash
-cat extensions.list | xargs -L1 code --install-extension
+cat extensions.txt | xargs -L1 code --install-extension
 ```
 
 Windows with PowerShell
