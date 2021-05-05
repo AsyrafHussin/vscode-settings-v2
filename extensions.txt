@@ -7,6 +7,7 @@ esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 JakeBecker.elixir-ls
+junstyle.php-cs-fixer
 ms-azuretools.vscode-docker
 ms-vscode.sublime-keybindings
 nikitaKunevich.snippet-creator
@@ -16,4 +17,5 @@ reblws.one-dark-flatland-monokai
 shakram02.bash-beautify
 shufo.vscode-blade-formatter
 sibiraj-s.vscode-scss-formatter
+unional.vscode-sort-package-json
 vincentkos.php-docblock-generator
