@@ -73,6 +73,9 @@ I personally use this settings for my VS Code
   "workbench.colorTheme": "One Dark Flatland Monokai",
   "workbench.iconTheme": "material-icon-theme",
   "simple-php-cs-fixer.save": true,
+  "php-cs-fixer.onsave": true,
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+  "php-cs-fixer.config": "~/.vscode/.php_cs;",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "blade": "html"
@@ -80,7 +83,6 @@ I personally use this settings for my VS Code
   "files.exclude": {
     "**/node_modules/**": true
   },
-  "window.zoomLevel": 0,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -106,7 +108,12 @@ I personally use this settings for my VS Code
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.startupEditor": "newUntitledFile",
-  "vetur.ignoreProjectWarning": true
+  "vetur.ignoreProjectWarning": true,
+"prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
+"[php]": {
+    "editor.defaultFormatter": "junstyle.php-cs-fixer"
+},
+"php-cs-fixer.lastDownload": 1620179546087
 }
 ```
 
