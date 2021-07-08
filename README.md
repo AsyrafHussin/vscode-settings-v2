@@ -75,7 +75,7 @@ I personally use this settings for my VS Code
   "simple-php-cs-fixer.save": true,
   "php-cs-fixer.onsave": true,
   "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-  "php-cs-fixer.config": "~/.vscode/.php_cs;",
+  "php-cs-fixer.config": "~/.vscode/.php-cs-fixer.php",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "blade": "html"
@@ -109,11 +109,11 @@ I personally use this settings for my VS Code
   },
   "workbench.startupEditor": "newUntitledFile",
   "vetur.ignoreProjectWarning": true,
-"prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
-"[php]": {
+  "prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
+  "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
-},
-"php-cs-fixer.lastDownload": 1620179546087
+  },
+  "php-cs-fixer.lastDownload": 1625688574678
 }
 ```
 
