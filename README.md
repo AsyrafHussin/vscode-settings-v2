@@ -72,10 +72,8 @@ I personally use this settings for my VS Code
   "intelephense.diagnostics.undefinedTypes": false,
   "workbench.colorTheme": "One Dark Flatland Monokai",
   "workbench.iconTheme": "material-icon-theme",
-  "simple-php-cs-fixer.save": true,
   "php-cs-fixer.onsave": true,
   "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-  "php-cs-fixer.config": "~/.vscode/.php-cs-fixer.php",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "blade": "html"
