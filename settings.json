@@ -71,6 +71,7 @@
     "javascript": "javascriptreact",
     "blade": "html"
   },
+  "emmet.syntaxProfiles": { "javascript": "html" },
   "files.exclude": {
     "**/node_modules/**": true
   },
@@ -93,7 +94,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "files.associations": {
-    "*.wox": "html"
+    "*.wox": "html",
+    "**/emails/*.blade.php": "php"
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -104,7 +106,7 @@
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
-  "php-cs-fixer.lastDownload": 1632776644673,
+  "php-cs-fixer.lastDownload": 1640320259428,
   "explorer.confirmDelete": false,
   "liveServer.settings.donotVerifyTags": true
 }

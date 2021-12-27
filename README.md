@@ -78,6 +78,7 @@ I personally use this settings for my VS Code
     "javascript": "javascriptreact",
     "blade": "html"
   },
+  "emmet.syntaxProfiles": { "javascript": "html" },
   "files.exclude": {
     "**/node_modules/**": true
   },
@@ -100,7 +101,8 @@ I personally use this settings for my VS Code
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "files.associations": {
-    "*.wox": "html"
+    "*.wox": "html",
+    "**/emails/*.blade.php": "php"
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -111,9 +113,9 @@ I personally use this settings for my VS Code
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
-"php-cs-fixer.lastDownload": 1632776644673,
-"explorer.confirmDelete": false,
-"liveServer.settings.donotVerifyTags": true
+  "php-cs-fixer.lastDownload": 1640320259428,
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotVerifyTags": true
 }
 ```
 
