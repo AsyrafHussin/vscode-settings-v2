@@ -1,13 +1,16 @@
 amatiasq.sort-imports
 austenc.laravel-blade-spacer
 bmewburn.vscode-intelephense-client
+bradlc.vscode-tailwindcss
 calebporzio.simple-php-cs-fixer
 cjhowe7.laravel-blade
+csstools.postcss
 dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 golang.go
+heybourn.headwind
 JakeBecker.elixir-ls
 junstyle.php-cs-fixer
 misbahansori.php-docblock-generator
