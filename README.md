@@ -113,7 +113,7 @@ I personally use this settings for my VS Code
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
-  "php-cs-fixer.lastDownload": 1640320259428,
+  "php-cs-fixer.lastDownload": 1646771190390,
   "explorer.confirmDelete": false,
   "liveServer.settings.donotVerifyTags": true
 }
