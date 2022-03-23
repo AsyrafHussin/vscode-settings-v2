@@ -27,6 +27,5 @@ ritwickdey.LiveServer
 shakram02.bash-beautify
 shufo.vscode-blade-formatter
 sibiraj-s.vscode-scss-formatter
-streetsidesoftware.code-spell-checker
 unional.vscode-sort-package-json
 VisualStudioExptTeam.vscodeintellicode
