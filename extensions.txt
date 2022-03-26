@@ -14,7 +14,6 @@ heybourn.headwind
 IronGeek.vscode-env
 JakeBecker.elixir-ls
 junstyle.php-cs-fixer
-mikestead.dotenv
 misbahansori.php-docblock-generator
 ms-vscode.sublime-keybindings
 nikitaKunevich.snippet-creator
