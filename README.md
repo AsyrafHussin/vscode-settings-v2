@@ -49,6 +49,16 @@ I personally use this settings for my VS Code
           "settings": {
             "fontStyle": "italic"
           }
+        },
+        {
+          "scope": [
+            "storage.type.contract",
+            "support.type.primitive",
+            "storage.type.event"
+          ],
+          "settings": {
+            "foreground": "#F92672"
+          }
         }
       ]
     }
@@ -113,9 +123,18 @@ I personally use this settings for my VS Code
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
-  "php-cs-fixer.lastDownload": 1646771190390,
+  "php-cs-fixer.lastDownload": 1658411566987,
   "explorer.confirmDelete": false,
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "redhat.telemetry.enabled": false,
+  "hardhat.telemetry": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+},
+  "editor.accessibilitySupport": "off"
 }
 ```
 
