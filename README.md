@@ -8,7 +8,8 @@ I personally use this settings for my VS Code
 {
   "editor.autoIndent": "advanced",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": true,
+    "source.fixAll.markdownlint": true
   },
   "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "line",
@@ -70,7 +71,7 @@ I personally use this settings for my VS Code
     "ui": "layout",
     "widgets": "components"
   },
-  // "workbench.statusBar.visible": false,
+  //   "workbench.statusBar.visible": false,
   "explorer.openEditors.visible": 0,
   "intelephense.format.enable": true,
   "intelephense.telemetry.enabled": false,
@@ -82,8 +83,6 @@ I personally use this settings for my VS Code
   "intelephense.diagnostics.undefinedTypes": false,
   "workbench.colorTheme": "One Dark Flatland Monokai",
   "workbench.iconTheme": "material-icon-theme",
-  "php-cs-fixer.onsave": true,
-  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "blade": "html"
@@ -112,7 +111,9 @@ I personally use this settings for my VS Code
   },
   "files.associations": {
     "*.wox": "html",
-    "**/emails/*.blade.php": "php"
+    "*.dist": "yaml",
+    ".env.cypress": "env",
+    "*.css": "css"
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -123,7 +124,7 @@ I personally use this settings for my VS Code
   "[php]": {
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
-  "php-cs-fixer.lastDownload": 1658411566987,
+  "php-cs-fixer.lastDownload": 1665857804860,
   "explorer.confirmDelete": false,
   "liveServer.settings.donotVerifyTags": true,
   "redhat.telemetry.enabled": false,
@@ -134,7 +135,20 @@ I personally use this settings for my VS Code
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
 },
-  "editor.accessibilitySupport": "off"
+  "editor.accessibilitySupport": "off",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "scss.lint.unknownAtRules": "ignore",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": true,
+  "git.autofetch": true,
+  "tabnine.experimentalAutoImports": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "css.lint.unknownAtRules": "ignore"
 }
 ```
 
