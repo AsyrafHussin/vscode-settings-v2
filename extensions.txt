@@ -5,6 +5,7 @@ bmewburn.vscode-intelephense-client
 bradlc.vscode-tailwindcss
 bungcip.better-toml
 cesium.gltf-vscode
+christian-kohler.npm-intellisense
 cjhowe7.laravel-blade
 csstools.postcss
 damirka.move-syntax
