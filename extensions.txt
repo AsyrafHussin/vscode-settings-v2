@@ -55,13 +55,16 @@ reblws.one-dark-flatland-monokai
 redhat.vscode-xml
 ritwickdey.LiveServer
 rust-lang.rust-analyzer
+sburg.vscode-javascript-booster
 shufo.vscode-blade-formatter
 sibiraj-s.vscode-scss-formatter
 slevesque.shader
 TabNine.tabnine-vscode
 tiehuis.zig
 twxs.cmake
+usernamehw.errorlens
 VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
 withfig.fig
+xabikos.JavaScriptSnippets
 Zignd.html-css-class-completion
