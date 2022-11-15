@@ -20,12 +20,14 @@ esbenp.prettier-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 formulahendry.code-runner
+GitHub.vscode-pull-request-github
 golang.go
 GrapeCity.gc-excelviewer
 heybourn.headwind
 hollowtree.canvas-snippets
 IronGeek.vscode-env
 JakeBecker.elixir-ls
+jeff-hykin.better-cpp-syntax
 junstyle.php-cs-fixer
 kuscamara.remove-unused-imports
 misbahansori.php-docblock-generator
