@@ -121,10 +121,6 @@ I personally use this settings for my VS Code
   "workbench.startupEditor": "newUntitledFile",
   "vetur.ignoreProjectWarning": true,
   "prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
-  "[php]": {
-    "editor.defaultFormatter": "junstyle.php-cs-fixer"
-  },
-  "php-cs-fixer.lastDownload": 1665857804860,
   "explorer.confirmDelete": false,
   "liveServer.settings.donotVerifyTags": true,
   "redhat.telemetry.enabled": false,
@@ -134,7 +130,7 @@ I personally use this settings for my VS Code
   },
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
-},
+  },
   "editor.accessibilitySupport": "off",
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -148,7 +144,12 @@ I personally use this settings for my VS Code
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "css.lint.unknownAtRules": "ignore"
+  "css.lint.unknownAtRules": "ignore",
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "window.commandCenter": false,
+  "liveServer.settings.donotShowInfoMsg": true
 }
 ```
 
